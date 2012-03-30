@@ -5,7 +5,9 @@ Example code to support the blog at http://www.casualmiracles.com/blog/....
 sbt is bundled with the project so just run ./sbt on the command line at the root of the project.
 
 To run with an embedded jetty, run:
+
 > ./sbt
+
 > container:start
 
 Then point your browser at http://localhost:8080
